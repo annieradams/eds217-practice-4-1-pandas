@@ -1,0 +1,82 @@
+,River,Length(km),Drainage area (km^2),Discharge (m^2/s),Mouth,Source,Continent
+0,amazon,6400,7050000,209000,Atlantic Ocean,Rio Mantaro,South America
+1,amazon,6400,7050000,41200,Atlantic Ocean,Lualaba River,Africa
+2,amazon,6400,7050000,30166,East China Sea,Jianggendiru Glacier,Asia
+3,amazon,6400,7050000,16792,Gulf of Mexico,Lake Itasca,North America
+4,amazon,6400,7050000,3400,Indian Ocean,Miombo Woodlands,Africa
+5,amazon,6400,7050000,16000,South China Sea,Lasagongma Spring,Asia
+6,amazon,6400,7050000,767,Southern Ocean, Australian Alps,Oceania
+7,amazon,6400,7050000,1710,Mediterranean Sea,Rhone Glacier,Europe
+8,amazon,6400,7050000,475,Okavango Delta,Bie Plateau,Africa
+9,congo,4371,4014500,209000,Atlantic Ocean,Rio Mantaro,South America
+10,congo,4371,4014500,41200,Atlantic Ocean,Lualaba River,Africa
+11,congo,4371,4014500,30166,East China Sea,Jianggendiru Glacier,Asia
+12,congo,4371,4014500,16792,Gulf of Mexico,Lake Itasca,North America
+13,congo,4371,4014500,3400,Indian Ocean,Miombo Woodlands,Africa
+14,congo,4371,4014500,16000,South China Sea,Lasagongma Spring,Asia
+15,congo,4371,4014500,767,Southern Ocean, Australian Alps,Oceania
+16,congo,4371,4014500,1710,Mediterranean Sea,Rhone Glacier,Europe
+17,congo,4371,4014500,475,Okavango Delta,Bie Plateau,Africa
+18,yangtze,6418,1808500,209000,Atlantic Ocean,Rio Mantaro,South America
+19,yangtze,6418,1808500,41200,Atlantic Ocean,Lualaba River,Africa
+20,yangtze,6418,1808500,30166,East China Sea,Jianggendiru Glacier,Asia
+21,yangtze,6418,1808500,16792,Gulf of Mexico,Lake Itasca,North America
+22,yangtze,6418,1808500,3400,Indian Ocean,Miombo Woodlands,Africa
+23,yangtze,6418,1808500,16000,South China Sea,Lasagongma Spring,Asia
+24,yangtze,6418,1808500,767,Southern Ocean, Australian Alps,Oceania
+25,yangtze,6418,1808500,1710,Mediterranean Sea,Rhone Glacier,Europe
+26,yangtze,6418,1808500,475,Okavango Delta,Bie Plateau,Africa
+27,mississippi,3730,3202230,209000,Atlantic Ocean,Rio Mantaro,South America
+28,mississippi,3730,3202230,41200,Atlantic Ocean,Lualaba River,Africa
+29,mississippi,3730,3202230,30166,East China Sea,Jianggendiru Glacier,Asia
+30,mississippi,3730,3202230,16792,Gulf of Mexico,Lake Itasca,North America
+31,mississippi,3730,3202230,3400,Indian Ocean,Miombo Woodlands,Africa
+32,mississippi,3730,3202230,16000,South China Sea,Lasagongma Spring,Asia
+33,mississippi,3730,3202230,767,Southern Ocean, Australian Alps,Oceania
+34,mississippi,3730,3202230,1710,Mediterranean Sea,Rhone Glacier,Europe
+35,mississippi,3730,3202230,475,Okavango Delta,Bie Plateau,Africa
+36,Zambezi,2574,1331000,209000,Atlantic Ocean,Rio Mantaro,South America
+37,Zambezi,2574,1331000,41200,Atlantic Ocean,Lualaba River,Africa
+38,Zambezi,2574,1331000,30166,East China Sea,Jianggendiru Glacier,Asia
+39,Zambezi,2574,1331000,16792,Gulf of Mexico,Lake Itasca,North America
+40,Zambezi,2574,1331000,3400,Indian Ocean,Miombo Woodlands,Africa
+41,Zambezi,2574,1331000,16000,South China Sea,Lasagongma Spring,Asia
+42,Zambezi,2574,1331000,767,Southern Ocean, Australian Alps,Oceania
+43,Zambezi,2574,1331000,1710,Mediterranean Sea,Rhone Glacier,Europe
+44,Zambezi,2574,1331000,475,Okavango Delta,Bie Plateau,Africa
+45,Mekong,4023,811000,209000,Atlantic Ocean,Rio Mantaro,South America
+46,Mekong,4023,811000,41200,Atlantic Ocean,Lualaba River,Africa
+47,Mekong,4023,811000,30166,East China Sea,Jianggendiru Glacier,Asia
+48,Mekong,4023,811000,16792,Gulf of Mexico,Lake Itasca,North America
+49,Mekong,4023,811000,3400,Indian Ocean,Miombo Woodlands,Africa
+50,Mekong,4023,811000,16000,South China Sea,Lasagongma Spring,Asia
+51,Mekong,4023,811000,767,Southern Ocean, Australian Alps,Oceania
+52,Mekong,4023,811000,1710,Mediterranean Sea,Rhone Glacier,Europe
+53,Mekong,4023,811000,475,Okavango Delta,Bie Plateau,Africa
+54,Murray,2508,1061469,209000,Atlantic Ocean,Rio Mantaro,South America
+55,Murray,2508,1061469,41200,Atlantic Ocean,Lualaba River,Africa
+56,Murray,2508,1061469,30166,East China Sea,Jianggendiru Glacier,Asia
+57,Murray,2508,1061469,16792,Gulf of Mexico,Lake Itasca,North America
+58,Murray,2508,1061469,3400,Indian Ocean,Miombo Woodlands,Africa
+59,Murray,2508,1061469,16000,South China Sea,Lasagongma Spring,Asia
+60,Murray,2508,1061469,767,Southern Ocean, Australian Alps,Oceania
+61,Murray,2508,1061469,1710,Mediterranean Sea,Rhone Glacier,Europe
+62,Murray,2508,1061469,475,Okavango Delta,Bie Plateau,Africa
+63,Rhone,813,98000,209000,Atlantic Ocean,Rio Mantaro,South America
+64,Rhone,813,98000,41200,Atlantic Ocean,Lualaba River,Africa
+65,Rhone,813,98000,30166,East China Sea,Jianggendiru Glacier,Asia
+66,Rhone,813,98000,16792,Gulf of Mexico,Lake Itasca,North America
+67,Rhone,813,98000,3400,Indian Ocean,Miombo Woodlands,Africa
+68,Rhone,813,98000,16000,South China Sea,Lasagongma Spring,Asia
+69,Rhone,813,98000,767,Southern Ocean, Australian Alps,Oceania
+70,Rhone,813,98000,1710,Mediterranean Sea,Rhone Glacier,Europe
+71,Rhone,813,98000,475,Okavango Delta,Bie Plateau,Africa
+72,Cubango,1056,530000,209000,Atlantic Ocean,Rio Mantaro,South America
+73,Cubango,1056,530000,41200,Atlantic Ocean,Lualaba River,Africa
+74,Cubango,1056,530000,30166,East China Sea,Jianggendiru Glacier,Asia
+75,Cubango,1056,530000,16792,Gulf of Mexico,Lake Itasca,North America
+76,Cubango,1056,530000,3400,Indian Ocean,Miombo Woodlands,Africa
+77,Cubango,1056,530000,16000,South China Sea,Lasagongma Spring,Asia
+78,Cubango,1056,530000,767,Southern Ocean, Australian Alps,Oceania
+79,Cubango,1056,530000,1710,Mediterranean Sea,Rhone Glacier,Europe
+80,Cubango,1056,530000,475,Okavango Delta,Bie Plateau,Africa
